@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="pingbreaker/zseven" flipX="true" isPlayer="true" icon="zsevenbreaker" camy="-300" camx="-200">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="singLEFT0" x="120" y="-33" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="singDOWN0" x="205" y="-245" fps="24" loop="false"/>
+	<anim name="singUP" anim="singUP0" x="-25" y="145" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="singRIGHT0" x="5" y="-19" fps="24" loop="false"/>
+</character>

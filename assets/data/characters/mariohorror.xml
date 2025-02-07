@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="NEW_Mario_EXE_V2_Assets" icon="dad" holdTime="6.1">
+	<anim name="idle" anim="MarioIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="MarioUp0" x="124.5" y="193" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="MarioLeft0" x="132.5" y="-91" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="MarioRight0" x="167" y="-135" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="MarioDown0" x="208.5" y="-205" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="MarioDown0" x="208.5" y="-205" fps="24" loop="false"/>
+	<anim name="idle" anim="MarioIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="MarioLaugh" anim="MarioLaugh0" x="53.5" y="27" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="MarioLeft0" x="132.5" y="-91" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="MarioRight0" x="167" y="-135" fps="24" loop="false"/>
+	<anim name="singUP" anim="MarioUp0" x="124.5" y="193" fps="24" loop="false"/>
+</character>

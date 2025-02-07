@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Unyappable-Rosebloom" flipX="true" camx="140" camy="150" isPlayer="true" icon="rosebloom" color="#F77FDC">
+	<anim name="idle" anim="BF idle dance" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="BF NOTE UP0" x="-14" y="2" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT0" x="30" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN0" x="-20" y="1" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF NOTE UP MISS" x="-17" y="1" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF NOTE LEFT MISS" x="-1" y="-1" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS" x="31" y="1" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF NOTE DOWN MISS" x="-20" y="1" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="BF NOTE DOWN ALT" x="-5" y="-1" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="BF NOTE LEFT ALT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="BF NOTE UP ALTT" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="BF NOTE RIGHT ALT" x="0" y="0" fps="24" loop="false"/>
+</character>

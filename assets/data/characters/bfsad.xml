@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="-40" y="350" sprite="MM_Boyfriend_Assets_cryingfuck" flipX="true" isPlayer="true" icon="rosesad">
+	<anim name="Act3Intro" anim="Act3Intro0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MISSSCAREDDOWN0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MISSSCAREDLEFT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MISSSCAREDRIGHT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MISSSCAREDUP0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="SCAREDDOWN0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="SCAREDIDLE0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="SCAREDLEFT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="SCAREDRIGHT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="SCAREDUP0" x="0" y="0" fps="24" loop="false"/>
+</character>

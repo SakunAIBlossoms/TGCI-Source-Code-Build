@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="DJ_Hallyboo_BF_Assetsa" isPlayer="true" icon="rosebloom" camGame.zoom="1">
+	<anim name="idle" anim="BFIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BFLeft0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BFDown0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="BFUp0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BFRight0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BFMissLeft0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BFMissDown0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BFMissUp0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BFMissRight0" x="0" y="0" fps="24" loop="false"/>
+</character>

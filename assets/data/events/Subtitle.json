@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "is it visible?",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Da text for ya subs",
+            "type": "String",
+            "defaultValue": "Your Text goes here!"
+        },
+        {
+            "name": "Change window title aswell?",
+            "type": "Bool",
+            "defaultValue": false
+        }
+    ]
+}

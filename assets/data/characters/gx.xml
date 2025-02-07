@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="GX_Sprites_FINAL" icon="gx" holdTime="6.1">
+	<anim name="idle" anim="GXIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="GXLeft0" x="-21" y="-19" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="GXDown0" x="22.5" y="88" fps="24" loop="false"/>
+	<anim name="singUP" anim="GXUp0" x="64.5" y="-51" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="GXRight0" x="42.5" y="98" fps="24" loop="false"/>
+</character>

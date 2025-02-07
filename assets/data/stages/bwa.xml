@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="bwa" folder="" startCamPosY="0" startCamPosX="0">
+	<solid name="void" color="#FFFFFF" width="10000" height="10000" y="0" x="0"/>
+	<girlfriend/>
+	<dad y="130"/>
+	<boyfriend/> 
+</stage>

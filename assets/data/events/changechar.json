@@ -1,0 +1,19 @@
+{
+	"params": [
+		{
+			"name": "haha whos changing?",
+			"type": "StrumLine",
+			"defaultValue": 0
+		},
+        {
+            "name": "index shit idfk",
+            "type": "String",
+            "defaultValue": "0"
+        },
+        {
+            "name": "who the fuck u changin to",
+            "type": "String",
+            "defaultValue": "bf"
+        }
+	]
+}

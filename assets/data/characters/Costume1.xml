@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="thedream/Costume_Mario_Assets" icon="costume" camGame.zoom="1">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="181" y="-32" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="100" y="-265" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="50" y="50" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-90" y="-185" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="Slumped Idle" x="105" y="-340" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="Slumped Left" x="100" y="-335" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Slumped Down" x="110" y="-345" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Slumped Up" x="110" y="-300" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Slumped Right" x="110" y="-310" fps="24" loop="false"/>
+</character>

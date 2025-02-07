@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="5" startCamPosX="0" startCamPosY="0" folder="stages/afmbar/">
+    <sprite x="50" y="100" sprite="behind/bg" name="skyback" scroll="0.7" antialiasing="false"/>
+    <sprite x="60" y="150" scale="1.5" sprite="behind/bg1" name="backbg" antialiasing="false"/>
+    
+    <sprite x="0" y="0" alpha="1" scale="1.2" sprite="back" name="back" antialiasing="false"/>
+    <sprite x="0" y="0" alpha="1" scale="1.2" sprite="front" name="front" antialiasing="false"/>
+    <girlfriend y="-100" x="200"/>
+    <dad x="206" y="273"/>
+    <boyfriend x="400" y="250"/>
+    <sprite x="-100" y="0" alpha="0" scale="1.25" sprite="trees" name="trees" antialiasing="false" scroll="1.4"/>
+</stage> 

@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "Show?",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Description",
+            "type": "String",
+            "defaultValue": "??????"
+        }, 
+        {
+            "name": "add onto the end of the song name?",
+            "type": "String",
+            "defaultValue": ""
+        }
+    ]
+}

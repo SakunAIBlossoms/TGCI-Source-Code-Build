@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="sillybilly/Yourself_BF_Assets" isPlayer="true" icon="bf" camGame.zoom="1">
+	<anim name="idle" anim="BFIdle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BFLeft0" x="35" y="-4" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BFDown0" x="1.5" y="-63" fps="24" loop="false"/>
+	<anim name="singUP" anim="BFUp0" x="-14" y="71" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BFRight0" x="26" y="4" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="BFLeftALT0" x="43" y="-4" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="BFDownALT0" x="74" y="132" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="BFUpALT0" x="38" y="71" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="BFRightALT0" x="44" y="4" fps="24" loop="false"/>
+</character>

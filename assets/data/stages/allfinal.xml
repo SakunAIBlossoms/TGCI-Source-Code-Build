@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="allfinal" folder="stages/allfinal/" startCamPosY="0" startCamPosX="0">
+	
+	<!-- ACT 1 -->
+	<sprite name="act1Stat" x="-900" y="-860" sprite="act1/act1_stat" scale="4">
+		<anim name="idle" anim="act1_static" loop="true"/>
+	</sprite>
+	<sprite name="act1Sky" x="-1850" y="-660" sprite="act1/act1_sky" scale="0.6"/>
+	<sprite name="act1Skyline" x="-2100" y="-660" sprite="act1/act1_skyline" scale="0.8"/>
+	<sprite name="act1Buildings" x="-2100" y="-660" sprite="act1/act1_bgbuildings" scale="0.8"/>
+	<sprite name="act1Floor" x="-2300" y="-660" sprite="act1/act1_floor" scale="1"/>
+	<sprite name="act1FG" x="-2530" y="-850" sprite="act1/act1_fg" scale="1.7"/>
+	<sprite name="act1Gradient" x="-2300" y="-910" sprite="act1/act1_gradient" scale="1"/>
+	<!-- ACT 2 -->
+	<sprite name="act2Stat" x="-70" y="-360" sprite="act2/act2_static" scale="2">
+		<anim name="idle" anim="act2stat" loop="true"/>
+	</sprite>
+	<!-- ACT 3 -->
+
+	<girlfriend x="580" y="150" />
+	<dad x="-1170" y="430" /> 
+	<boyfriend x="270" y="120" /> 
+</stage>

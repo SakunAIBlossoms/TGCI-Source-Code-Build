@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 175,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": false,
+	"parsedColor": -7179779,
+	"displayName": "The Dream",
+	"icon": "face",
+	"name": "the-dream",
+	"color": "#9271FD",
+	"customValues": {}
+}

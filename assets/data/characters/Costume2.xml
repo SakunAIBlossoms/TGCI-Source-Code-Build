@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="thedream/Costume_Mario_Assets2" icon="costume" camGame.zoom="1">
+	<anim name="idle" anim="DarkIdle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Darkleft" x="245" y="40" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DarkDown" x="35" y="-95" fps="24" loop="false"/>
+	<anim name="singUP" anim="DarkUp" x="180" y="75" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="DarkRight" x="-105" y="0" fps="24" loop="false"/>
+	<anim name="Trans" anim="DarkTransition" x="255" y="180" fps="24" loop="false"/>
+</character>

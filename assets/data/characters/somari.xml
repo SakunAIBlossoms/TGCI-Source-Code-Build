@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="39" y="384" sprite="somari" scale="4" antialiasing="false" camx="180" camy="60" icon="somari" color="#464646">
+	<anim name="idle" anim="somari idle" x="0" y="-1.25" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="somari left0" x="0" y="-1.25" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="somari right0" x="0" y="-1.25" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="somari down0" x="0" y="-1.25" fps="12" loop="false"/>
+	<anim name="singUP" anim="somari up0" x="0" y="-1.25" fps="12" loop="false"/>
+	<anim name="singLEFT-alt" anim="somari left alt" x="0" y="-1.25" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="somari right alt" x="0" y="-1.25" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="somari down alt" x="0" y="-1.25" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="somari up alt" x="0" y="0.75" fps="24" loop="false"/>
+</character>

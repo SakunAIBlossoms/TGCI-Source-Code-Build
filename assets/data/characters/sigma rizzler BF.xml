@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="MM_Boyfriend_Assets_CAUSAPE" isPlayer="true" icon="bf">
+	<anim name="singDOWN" anim="COOLDOWN0" x="1" y="-66" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="COOLLEFT0" x="9" y="3" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="COOLRIGHT0" x="1" y="3" fps="24" loop="false"/>
+	<anim name="singUP" anim="COOLUP0" x="7" y="116" fps="24" loop="false"/>
+	<anim name="DODGE" anim="DODGE0" x="80.5" y="46" fps="24" loop="false"/>
+	<anim name="HIT" anim="HIT0" x="29.5" y="78" fps="24" loop="false"/>
+	<anim name="idle" anim="IDLE0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MISSCOOLDOWN0" x="2.5" y="-28" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MISSCOOLLEFT0" x="11" y="39" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MISSCOOLRIGHT0" x="0.5" y="33" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MISSCOOLUP0" x="11.5" y="126" fps="24" loop="false"/>
+	<anim name="esotilin" anim="esotilin0" x="-75.5" y="-35" fps="24" loop="false"/>
+</character>

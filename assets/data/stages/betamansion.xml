@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="betamansion" folder="stages/LuigiBeta/" startCamPosY="0" startCamPosX="0">
+	<sprite name = "bg" x = "-1200" y = "-850" sprite = "Skybox" scroll = "1" scale = "1"/>
+	<sprite name = "scarymansion" x = "-1200" y = "-850" sprite = "BackBG" scroll = "1" scale = "0.8"/>
+	<sprite name = "betafire1" x = "-320" y = "-630" sprite = "Alone_Fire" scroll = "1" scale = "1">
+		<anim name = "fire" anim = "fire0" loop = "true"/>
+	</sprite>
+	<sprite name = "betafire2" x = "-320" y = "-630" sprite="Alone_Fire" scroll="1" scale="1">
+		<anim name = "fire" anim = "fire0" loop = "true"/>
+	</sprite>
+	<sprite name = "scarymansion" x = "-1200" y = "-850" sprite="FrontBG" scroll="1" scale="1"/>
+	
+	<girlfriend x="400" y="-100" alpha="0"/>
+	<dad x="70" y="300"/>
+	<boyfriend x="890" y="-100" alpha="0"/> 
+</stage>

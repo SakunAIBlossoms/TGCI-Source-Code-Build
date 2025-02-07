@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="template" folder="" startCamPosY="0" startCamPosX="0">
+	<!-- For information on how to add sprites check https://codename-engine.com/wiki/modding/stages/ -->
+	<girlfriend/>
+	<dad/>
+	<boyfriend/> 
+</stage>

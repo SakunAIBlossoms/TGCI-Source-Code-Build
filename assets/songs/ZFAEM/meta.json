@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 117,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Zseven Fun And Exciting Mania 7",
+	"icon": "Zseven",
+	"name": "ZFAEM",
+	"color": "#FFFFFF",
+	"customValues": {}
+}

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="4" y="390" sprite="pikafriend" scale="4" antialiasing="false" flipX="true" camx="-170" camy="-230" icon="pikafriend">
+	<anim name="idle" anim="Pikafriend idle" x="3.25" y="9.25" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="Pikafriend right" x="3.25" y="9.25" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="Pikafriend left" x="3.25" y="9.25" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="Pikafriend down" x="3.25" y="9.25" fps="12" loop="false"/>
+	<anim name="singUP" anim="Pikafriend up" x="3.25" y="9.25" fps="12" loop="false"/>
+	<anim name="hit" anim="Pikafriend hurt" x="3.25" y="9.25" fps="3" loop="true"/>
+	<anim name="death" anim="Pikafriend death" x="3.25" y="9.25" fps="12" loop="true"/>
+</character>

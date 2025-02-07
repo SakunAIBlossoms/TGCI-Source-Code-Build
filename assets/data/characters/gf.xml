@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="275" sprite="aftermidnight/ourpgf" antialiasing="false" icon="gf" color="#FF0000" isGF="true">
+	<anim name="idle" anim="i0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="l0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="d0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="u0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="r0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="lm0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="dm0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="um0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="rm0" x="0" y="0" fps="24" loop="false"/>
+</character>

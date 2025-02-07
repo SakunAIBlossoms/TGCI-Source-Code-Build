@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="courtroom" folder="stages/court/" startCamPosY="0" startCamPosX="0">
+	<girlfriend/>
+	<dad/>
+	<boyfriend/> 
+</stage>

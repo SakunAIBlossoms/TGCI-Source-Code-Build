@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="pingbreaker/YINwaterphase" icon="yinbreaker" holdTime="6.1">
+	<anim name="idle" anim="dx water idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="dx water left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="dx water down" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="dx water up" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="dx water right" x="42.5" y="98" fps="24" loop="false"/>
+</character>

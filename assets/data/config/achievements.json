@@ -1,0 +1,19 @@
+{
+    "achievements": [
+        {
+            "name": "Find the slot machine",
+            "desc": "Finally I can fulfill my gambling addiction....",
+            "saveid": 0
+        },
+        {
+            "name": "Better not break it.",
+            "desc": "Make a deal with Mr. KYS for Rosebloom's survival",
+            "saveid": 1
+        },
+        {
+            "name": "Perfect run!",
+            "desc": "Beat every song in the mod with an S rank.",
+            "saveid": 2
+        }
+    ]
+}

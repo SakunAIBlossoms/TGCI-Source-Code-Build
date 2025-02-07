@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.45" folder="stages/costume/">
+    <sprite x="-1200" y="-770" sprite="PedacitoDeGris" name="bg"/>
+    <sprite x="0" y="0" sprite="Floor and Courtains" name="floor"/>
+    <sprite x="0" y="0" alpha="1" scale="1" sprite="mesa mesa mesa que mas aplauda" name="mesa"/>
+    <sprite alpha="0" sprite="end" name="elfin"/>
+    <dad x="1000" y="800"/>
+    <boyfriend x="2000" y="1200" flipx="true"/>
+    <sprite x="-1400" y="-300" scale="1.4" sprite="Foreground" name="castle0" scroll="0.6"/>
+    <sprite x="0" y="0" alpha="0" antialiasing="true" type="none" sprite="Costume_Letsago" name="letsago">
+        <anim name="go" anim="Lets A Go" loop="false"/>
+    </sprite>
+</stage>

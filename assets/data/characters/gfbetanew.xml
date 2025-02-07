@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="275" sprite="suicide/so_sad_star" icon="gf" color="#A5004D" isGF="true">
+	<anim name="idle" anim="ghost star idle0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="miss" anim="ghost star miss0" x="-23.5" y="2" fps="24" loop="false"/>
+</character>

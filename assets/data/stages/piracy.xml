@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="piracy" folder="stages/piracy/" startCamPosY="0" startCamPosX="0">
+	<!--<sprite name = "bg" x = "256" y = "222" sprite = "youtube" scale = "1.3" alpha = "1" antialiasing="true"/>-->
+	<girlfriend/>
+	<dad/>
+	<boyfriend/> 
+</stage>

@@ -1,0 +1,32 @@
+<!DOCTYPE codename-engine-character>
+<character x="-40" y="350" sprite="MM_Boyfriend_Assets_CAUSAPE" flipX="true" isPlayer="true" icon="rosebloom">
+	<anim name="idle" anim="IDLE0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="LEFT0" x="-8" y="1" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DOWN0" x="-20" y="-40" fps="24" loop="false"/>
+	<anim name="singUP" anim="UP0" x="4.5" y="59" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="RIGHT0" x="-6" y="0" fps="24" loop="false"/>
+	<anim name="DODGE" anim="DODGE0" x="80.5" y="46" fps="24" loop="false"/>
+	<anim name="HIT" anim="HIT0" x="29.5" y="78" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MISSLEFT0" x="-8" y="7" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MISSDOWN0" x="-20" y="7" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MISSUP0" x="4.5" y="61" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MISSRIGHT0" x="-6.5" y="30" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="COOLLEFT0" x="9" y="3" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="COOLDOWN0" x="1" y="-66" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="COOLUP0" x="7" y="116" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="COOLRIGHT0" x="1" y="3" fps="24" loop="false"/>
+	<anim name="singLEFTmiss-alt" anim="MISSCOOLLEFT0" x="11" y="39" fps="24" loop="false"/>
+	<anim name="singDOWNmiss-alt" anim="MISSCOOLDOWN0" x="2.5" y="-28" fps="24" loop="false"/>
+	<anim name="singUPmiss-alt" anim="MISSCOOLUP0" x="11.5" y="126" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss-alt" anim="MISSCOOLRIGHT0" x="0.5" y="33" fps="24" loop="false"/>
+	<anim name="idle-scared" anim="SCAREDIDLE0" x="2" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT-scared" anim="SCAREDLEFT" x="10" y="1" fps="24" loop="false"/>
+	<anim name="singDOWN-scared" anim="SCAREDDOWN" x="-20" y="-40" fps="24" loop="false"/>
+	<anim name="singUP-scared" anim="SCAREDUP0" x="4.5" y="59" fps="24" loop="false"/>
+	<anim name="singRIGHT-scared" anim="SCAREDRIGHT0" x="-6" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss-scared" anim="MISSSCAREDLEFT0" x="11" y="24" fps="24" loop="false"/>
+	<anim name="singDOWNmiss-scared" anim="MISSSCAREDDOWN0" x="-20" y="-37" fps="24" loop="false"/>
+	<anim name="singUPmiss-scared" anim="MISSSCAREDUP0" x="5.5" y="91" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss-scared" anim="MISSSCAREDRIGHT0" x="-5.5" y="30" fps="24" loop="false"/>
+	<anim name="esotilin" anim="esotilin0" x="-75.5" y="-35" fps="24" loop="false"/>
+</character>

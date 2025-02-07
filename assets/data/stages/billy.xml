@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.725" name="billy" folder="stages/billy/" startCamPosY="0" startCamPosX="0">
+	<sprite name="mirror" x="0" y="0" sprite="silly_mirror" scale="1" antialiasing="true"/>
+	<sprite name="brokenmirror" x="0" y="0" sprite="broken_mirror" alpha="0" antialiasing="true"/>
+	<sprite name="floor" x="0" y="0" sprite="bgAssets" scale="1" antialiasing="true">
+		<anim name="idle" anim="Silly_floor"/>
+	</sprite>
+	<sprite name="sillyidk" x="0" y="0" sprite="bgAssets" scale="1" antialiasing="true">
+		<anim name="sillyidk" anim="Silly_idk_1"/>
+	</sprite>
+	<sprite name="sillyidk2" x="0" y="0" sprite="bgAssets" scale="1" antialiasing="true">
+		<anim name="sillyidk2" anim="Silly_idk_2"/>
+	</sprite>
+	<girlfriend/>
+	<dad x="840" y="840"/>
+	<boyfriend x="1630" y="900"/> 
+</stage>

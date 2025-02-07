@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="CYBU_Stage" folder="stages/CYBU_Stage/" startCamPosY="0" startCamPosX="0">
+	<girlfriend/>
+	<dad x = "0" y = "20"/>
+	<boyfriend x = "0" y = "-215"/> 
+</stage>

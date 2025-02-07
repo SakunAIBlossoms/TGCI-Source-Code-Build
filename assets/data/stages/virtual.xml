@@ -1,0 +1,25 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/virtual/" zoom="0.5">
+	<sprite x="-1200" y="-750" sprite="Wall Bg" scroll="0.6" name="vwall"/>
+	<sprite x="-1200" y="-750" sprite="Back Pipes" name="backPipe2" scroll=".75"/>
+	<sprite x="-1200" y="-750" sprite="Front Pipes" name="backPipe1" scroll=".75"/>
+	<sprite x="-1200" y="-750" sprite="Back Platform" scroll="0.75" name="backFloor"/>
+	<sprite x="800" y="200" sprite="v_koopa_thorny" scale="0.8" scroll=".75" name="turtle">
+		<property type="bool" value="false" name="visible"/>
+		<property type="bool" value="true" name="flipX"/>
+		<anim x="0" loop="false" y="0" fps="24" anim="glitch in" name="glitch"/>
+		<anim x="0" loop="false" y="0" fps="24" anim="Koopa Idle Glitch" type="beat" name="idle"/>
+	</sprite>
+	<sprite x="200" y="200" sprite="v_koopa_thorny" scale="0.8" scroll="0.75" name="turtle2">
+		<property type="bool" value="false" name="visible"/>
+		<anim x="0" loop="false" y="0" fps="24" anim="glitch in" name="glitch"/>
+		<anim x="0" loop="false" y="0" fps="24" anim="Koopa Idle Glitch" type="beat" name="idle"/>
+	</sprite>
+	<sprite x="-1200" y="-750" sprite="Main Platform" name="frontFloor"/>
+	<sprite x="-1400" y="-600" sprite="Corner top Left Pipes" scroll="0.75" name="cornerPipes"/>
+	<sprite x="-1200" name="crazyFloor" sprite="Platform" y="-170"/>
+	<gf/>
+	<dad x="100" y="200"/>
+	<bf x="1100" y="100"/>
+	<combo x="925" y="450"/>
+</stage>

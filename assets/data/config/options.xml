@@ -1,0 +1,30 @@
+<!DOCTYPE codename-mod-options>
+<menu name="TGCI Options" desc="Choose your TGCI settings in here!">
+	<menu name="Filters" desc="Sensitive to certain types of content? This contains filters to hide it">
+		<checkbox id="nopcmanipulation" name="Disable PC Manipulation?" desc="This mod contains mechanics that will mess with aspects of your pc and could cause problems. Turn this on to disable it. We are not responsible for any damages that happen due to this option being on (its not designed to touch your files btw)" />
+		<checkbox id="privacymode" name="Privacy Mode?" desc="Removes your pc username, discord username, discord pfp, computer information anything that can personally identify you and replace it with rosebloom."/>
+        <checkbox id="removegore" name="Remove gore?" desc="If your sensitive to gore this replaces all of it with zseven.png. Ruins the experience but its for accomadation"/>
+		<checkbox id="nosuicide" name="Remove suicide topics?" desc="If you are sensitive to suicidal content enable this to hide said content. You have been warned" />
+    </menu>
+	<menu name="Performance" desc="TGCI runnin slow? These toggles will improve performance">
+        <checkbox id="noshaders" name="Disable Shaders?" desc="i call this the yin toggle. This turns off the shaders to help give you more performance"/>
+		<checkbox id="purespeed" name="Pure Speed" desc="Remove camGame and all background assets to free up memory and performance. This is NOT RECOMMENDED!"/>
+    </menu>
+	<menu name="Customization" desc="Customize the mod to your liking!">
+		<checkbox id="oldUI" name="Use old UI?" desc="Replaces every custom menu with MMv2 original menus (Does not apply to gameplay)"/>
+		<checkbox id="nostartwarn" name="Disable the warning?" desc="If checked will not warn you about this mods contents before you get into the game"/>
+        <checkbox id="notimebar" name="Hide Timebar?" desc="Remove the timebar if you want just pure space"/>
+		<checkbox id="nohealthbar" name="Hide Healthbar?" desc="Remove the healthbar if you want just pure space"/>
+		<choice id="bgshit" name="MENU BG" desc="Change the BG on the main menu!">
+			<value name="RANDOM" value="random"/>
+			<value name="Mushroom Kingdom" value="shroomsvro"/>
+			<value name="Bedrock City" value="bedrock"/>
+			<value name="Green Hill Zone" value="greenhill"/>
+			<value name="Bowser Castle" value="bowser"/>
+			<value name="Hackrom Forest" value="hackrom"/>
+			<value name="GameBoy Land" value="gamebro"/>
+			<value name="Hunting Area" value="bowser"/>
+		</choice>
+    </menu>
+	
+</menu>

@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 150,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -64765,
+	"displayName": "Retro Mayhem",
+	"icon": "bfgd",
+	"name": "retro-mayhem",
+	"color": "#FF0303"
+}

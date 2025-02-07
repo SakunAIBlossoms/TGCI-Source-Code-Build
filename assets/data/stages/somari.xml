@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.4" name="somari" folder="stages/Somari/" startCamPosY="0" startCamPosX="0">
+	<sprite name = "bg" x = "256" y = "222" sprite = "somari_stag1" scroll = "1" scale = "4" alpha = "1" antialiasing="false"/>
+	<sprite name = "building" x = "256" y = "222" sprite = "buildings_papu" scroll = "1" scale = "4" alpha = "1" antialiasing="false"/>
+	<sprite name="platformlol" sprite="platform" x="600" y="386" scale="4" antialiasing="false"/>
+	<sprite x="625" y="262" alpha="1" scale="4" type="beat" sprite="eeveefriend" name="gfstagechar" antialiasing="false">
+		<anim name="idle" anim="eeveefriend idle0" loop="false" fps="12"/>
+	</sprite>
+	<girlfriend y="-8" x="535"/>
+	<dad y="-117" x="100"/>
+	<boyfriend y="-77" x="550"/> 
+	<ratings x="-1000"/>
+</stage>

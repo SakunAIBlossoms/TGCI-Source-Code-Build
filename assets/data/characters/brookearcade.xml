@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="aftermidnight/brookearcade" antialiasing="false" isPlayer="true" icon="rosebloom" color="#18FFCE" camx="100" camy="100" flipX="true">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="die" anim="die0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="dead" anim="dead0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="retry" anim="retry0" x="0" y="0" fps="12" loop="false"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="nesbeat" folder="stages/beatus/" startCamPosY="0" startCamPosX="0">
+	<sprite name = "bars" x = "0" y = "0" sprite = "bars" scroll = "0.9" scale = "3" alpha = "1"/>
+	<sprite name = "tree" x = "0" y = "0" sprite = "tree" scroll = "0.9" scale = "6.5" alpha = "0"/>
+	<sprite name = "grass" x = "150" y = "550" sprite = "grass" scroll = "0.9" scale = "6.5" alpha = "0"/>
+	<sprite name = "arbust" x = "0" y = "0" sprite = "grass" scroll = "0.9" scale = "6.5" alpha = "0"/>
+	<girlfriend x = "0" y = "-100" scale = "0.9"/>
+	<dad x = "0" y = "0"  scale = "1.3"/>
+	<boyfriend x = "0" y = "0" /> 
+</stage>

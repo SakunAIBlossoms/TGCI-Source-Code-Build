@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="pingbreaker/yin_phase_2" icon="yinbreaker2" holdTime="6.1">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="singLEFT0" x="136" y="-120" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="singDOWN0" x="-6" y="-157" fps="24" loop="false"/>
+	<anim name="singUP" anim="singUP0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="singRIGHT0" x="74" y="-92" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="singUP-alt0" x="5" y="58" fps="24" loop="false"/>
+	<anim name="the guy" anim="the guy0" x="0" y="0" fps="24" loop="false"/>
+</character>

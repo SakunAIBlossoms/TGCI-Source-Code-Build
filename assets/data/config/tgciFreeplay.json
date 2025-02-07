@@ -1,0 +1,77 @@
+{
+    "songs": [
+        {
+            "displayname": "Alcourt Case",
+            "filename": "alcourt-case",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "TESTing ?><,.[]{}|!@#$%^&*()_+-=",
+            "filename": "test",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "All Stars",
+            "filename": "all-stars",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "The Endgame",
+            "filename": "endgame",
+            "icon": "Char9"
+        },
+        {
+            "displayname": "It's Zsover",
+            "filename": "its-zsover",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "Not Great",
+            "filename": "not-great",
+            "icon": "Char8"
+        },
+        {
+            "displayname": "Retro Mayhem",
+            "filename": "retro-mayhem",
+            "icon": "Char16"
+        },
+        {
+            "displayname": "Silly",
+            "filename": "silly",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "filter in progress",
+            "filename": "suicide",
+            "icon": "Char0"
+        },
+        {
+            "displayname": "Zseven Fun And Exciting Mania 7",
+            "filename": "zseven fun and exciting mania 7",
+            "icon": "Char13",
+            "desc": "THIS SANE GCn\nZSEVEN FUN AND EXCITING MANIA 7\nTAIKI\n\nART BY GP AND SNAK\nCHART BY THALES\nCODING BY DEWOTT\nCOMPOSED BY TAESKULL\nART, ANIMATION, AND COVER BY TAIKI\n\nA GAME THAT IS BASED OFF OSU!MANIA,\nDEVELOPED BY THIS SANE GC, THE GAME CONSISTS\nOF AN ABOMINATION NAMED \"YSIX\", CRITICIZED FOR\nITS BLATANT STEALING OF ZSEVEN'S STYLE. THE\nGAME IS OFTEN CRITICIZED FOR ITS AWFUL INPUTS\nAND HORRENDOUS CHARTS."
+        },
+        {
+            "displayname": "Unyappable",
+            "filename": "unyappable",
+            "icon": "Char14"
+        },
+        {
+            "displayname": "Unyappable WxL",
+            "filename": "unyappable",
+            "icon": "Char14",
+            "difficulty": "WxL",
+            "tip": "This is your tip"
+        },
+        {
+            "displayname": "Can You Beat Us?",
+            "filename": "cybu",
+            "icon": "Char14"
+        },
+        {
+            "displayname": "Intrusive Thoughts",
+            "filename": "intrusive-thoughts",
+            "icon": "Char41"
+        }
+    ]
+}

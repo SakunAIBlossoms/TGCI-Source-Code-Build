@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="DJ_Hallyboo_Assetsa" icon="icon" holdTime="6.1">
+	<anim name="idle" anim="HallyIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="HallyLeft0" x="30" y="35" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="HallyDown0" x="-25" y="-25" fps="24" loop="false"/>
+	<anim name="singUP" anim="HallyUp0" x="15" y="33" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="HallyRight0" x="16" y="0" fps="24" loop="false"/>
+	<anim name="Glitch" anim="Glitch0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="Fade" anim="Fade0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="CONCENTRATE" anim="CONCENTRATE0" x="-125" y="-37" fps="24" loop="false"/>
+</character>

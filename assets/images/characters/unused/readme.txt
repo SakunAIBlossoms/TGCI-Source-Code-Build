@@ -1,0 +1,1 @@
+I usually delete unused shit for more space and optimisation but im keeping these specific ones for kinda like archive purposes (Character files will not use them)

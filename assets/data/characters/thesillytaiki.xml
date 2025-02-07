@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="sillybilly/Lookalike_Assets" icon="taiki" holdTime="6.1">
+	<anim name="idle" anim="ElIdleBIG0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="ElLeftBIG0" x="104" y="29" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="ElDownBIG0" x="17.5" y="-130" fps="24" loop="false"/>
+	<anim name="singUP" anim="ElUpBIG0" x="164" y="277" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="ElRightBIG0" x="-10.5" y="27" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="ElIdleSMALL" x="-60" y="-480" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="ElLeftSMALL" x="-15" y="-455" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="ElDownSMALL" x="-60" y="-530" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="ElUpSMALL" x="-75" y="-435" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="ElRightSMALL" x="-80" y="-480" fps="24" loop="false"/>
+	<anim name="pig" anim="pig0" x="-154" y="-673" fps="24" loop="false"/>
+</character>

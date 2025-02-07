@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="hazel" icon="hazel" holdTime="6.1" camx = "170" camy="15">
+	<anim name="idle" anim="hazel idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="hazel left0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="hazel down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="hazel up0" x="0" y="114" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="hazel right0" x="0" y="0" fps="24" loop="false"/>
+</character>

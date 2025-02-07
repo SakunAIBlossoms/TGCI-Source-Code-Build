@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="thedream/BF" isPlayer="true" icon="rosebloom" camGame.zoom="1">
+	<anim name="idle" anim="IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="LEFT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DOWN" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="UP" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="RIGHT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="COOLLEFT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="COOLDOWN0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="COOLUP0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="COOLRIGHT0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="esotilin" anim="esotilin0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="BF HEY!!" anim="BF HEY!!0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DOWN" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MISSDOWN" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="LEFT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MISSLEFT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="RIGHT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MISSRIGHT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="UP" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MISSUP" x="0" y="0" fps="24" loop="false"/>
+	<anim name="BF hit" anim="HIT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="dodge" anim="DODGE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DOWN" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="LEFT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="RIGHT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="UP" x="0" y="0" fps="24" loop="false"/>
+</character>

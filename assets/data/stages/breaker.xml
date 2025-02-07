@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/breaker/" zoom="0.75" name="breaker">
+	<sprite x="-2000" scroll="0.9" sprite="sky" y="-1000" name="sky"/>
+	<sprite x="-2500" scroll="0.9" sprite="mountains" y="-450" name="mt"/>
+	<sprite x="-2500" scroll="0.9" sprite="trees" y="-100" name="trees"/>
+	<sprite x="-2100" scroll="1" sprite="grasspillars" y="-480" name="floor"/>
+	<sprite x="-2100" scroll="1" sprite="grasspillars1" y="-522" name="floor1"/>
+	<sprite x="-1300" scroll="1" sprite="light" y="-1000" name="light"/>
+	<dad x="-780" y="-40"/>
+	<boyfriend x="-120" y="-361"/>
+	<gf/>
+	<combo/>
+</stage>

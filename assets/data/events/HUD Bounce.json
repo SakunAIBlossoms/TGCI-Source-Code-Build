@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "enabled?",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Intensity?",
+            "type": "Int(0, 99, 1)",
+            "defaultValue": 1
+        }
+    ]
+}

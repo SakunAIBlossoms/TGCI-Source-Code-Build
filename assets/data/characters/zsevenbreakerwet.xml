@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="pingbreaker/zsevenUnderwater" isPlayer="true" icon="zseven" camGame.zoom="1">
+	<anim name="idle" anim="pico water idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="pico water left0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="pico water down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="pico water up0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="pico water right0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="pico water left miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="pico water down miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="pico water up miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="pico water right miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="recover" anim="pico water recover" x="0" y="0" fps="24" loop="false"/>
+</character>

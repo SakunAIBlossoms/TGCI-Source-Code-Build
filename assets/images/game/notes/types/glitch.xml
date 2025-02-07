@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitchNOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="10" y="10" width="59" height="66" pivotX="5" pivotY="0"/>
+	<SubTexture name="blue hold piece0000" x="79" y="10" width="51" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="blue0000" x="140" y="10" width="168" height="154" pivotX="8.45" pivotY="0"/>
+	<SubTexture name="green hold end0000" x="318" y="10" width="57" height="66" pivotX="2" pivotY="0"/>
+	<SubTexture name="green hold piece0000" x="385" y="10" width="51" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="green0000" x="446" y="10" width="166" height="153" pivotX="1.75" pivotY="-3.95"/>
+	<SubTexture name="pruple hold end0000" x="622" y="10" width="54" height="64" pivotX="2.5" pivotY="0"/>
+	<SubTexture name="purple hold piece0000" x="686" y="10" width="51" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="purple0000" x="747" y="10" width="165" height="165" pivotX="8" pivotY="8"/>
+	<SubTexture name="red hold end0000" x="922" y="10" width="61" height="66" pivotX="6.5" pivotY="0"/>
+	<SubTexture name="red hold piece0000" x="10" y="185" width="51" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="red0000" x="71" y="185" width="166" height="157" pivotX="8" pivotY="0"/>
+</TextureAtlas>

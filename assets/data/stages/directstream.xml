@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.66" name="directstream" folder="stages/Real" startCamPosY="0" startCamPosX="0">
+	<!-- For information on how to add sprites check https://codename-engine.com/wiki/modding/stages/ -->
+	<sprite name="bg" x="-600" y="-200" sprite="direct bg grey" scroll="1"/>
+	<sprite name="bgbutevilandfuckedup" x="-600" y="-200" sprite="direct bg red" scroll="1"/>
+	<dad x="" y=""/>
+	<girlfriend x="" y=""/>
+	<boyfriend x="" y=""/> 
+</stage>

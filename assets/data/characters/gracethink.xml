@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="aftermidnight/gracethink" antialiasing="false" icon="gf" color="#FF0000" isGF="true" camx="-220" camy="78">
+	<anim name="idle" anim="idle" x="0" y="0" fps="2" loop="true"/>
+	<anim name="cheer" anim="cheer" x="0" y="0" fps="2" loop="false"/>
+</character>

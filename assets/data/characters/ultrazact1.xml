@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" y="-800" sprite="Ultra_M1_Assets" camy="150" icon="ultraz" holdTime="6.1" camGame.zoom="0.8" defaultCamZoom="1.05">
+	<anim name="idle" anim="Ultra M idle instance 1" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Ultra M left instance 1" x="195" y="-34" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Ultra M down instance 1" x="189.5" y="-192" fps="24" loop="false"/>
+	<anim name="singUP" anim="Ultra M up instance 1" x="293.5" y="398" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Ultra M right instance 1" x="418" y="62" fps="24" loop="false"/>
+</character>
