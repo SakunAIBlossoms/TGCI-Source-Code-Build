@@ -9,3 +9,4 @@ pages/
 docs/doc.xml
 mods/*
 !mods/readme.txt
+.haxelib/
